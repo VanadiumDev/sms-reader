@@ -21,7 +21,7 @@ Pour une meilleure expérience, lors de l'utilisation de notre service, je peux 
 L'application utilise des services tiers susceptibles de collecter des informations permettant de vous identifier.
 Lien vers la politique de confidentialité des fournisseurs de services tiers utilisés par l'application : 
 
-    [Services Google Play](https://www.google.com/policies/privacy/)
+  [Services Google Play](https://www.google.com/policies/privacy/)
 
 ### Données du journal
 
